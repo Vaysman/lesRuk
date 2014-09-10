@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+
+
+
+
+<h:body>
+    <div style="border: cornflowerblue">
+    </div>
+    <p:stack icon="resources/menu/closebook-icon.png" expanded="true">
+        <p:menuitem value="Magic" icon="resources/menu/magic-icon.png" outcome="magic"/>
+        <p:menuitem value="About" icon="resources/menu/about-icon.png" outcome="about"/>
+        <p:menuitem value="Mafiosi" icon="resources/menu/mafiosi-icon.png" outcome="mafiosi"/>
+        <p:menuitem value="Video" icon="resources/menu/videos-icon.png" outcome="video"/>
+        <p:menuitem value="Gallery" icon="resources/menu/photos-icon.png" outcome="gallery"/>
+        <p:menuitem value="School" icon="resources/menu/school-icon.png" outcome="school"/>
+        <p:menuitem value="News" icon="resources/menu/news-icon.png" outcome="news"/>
+    </p:stack>
+</h:body>
+</html>
