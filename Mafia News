@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><link type="text/css" rel="stylesheet" href="/faces/javax.faces.resource/theme.css?ln=primefaces-aristo" /><link type="text/css" rel="stylesheet" href="/faces/javax.faces.resource/primefaces.css?ln=primefaces&amp;v=4.0" /><script type="text/javascript" src="/faces/javax.faces.resource/jquery/jquery.js?ln=primefaces&amp;v=4.0"></script><script type="text/javascript" src="/faces/javax.faces.resource/jquery/jquery-plugins.js?ln=primefaces&amp;v=4.0"></script><script type="text/javascript" src="/faces/javax.faces.resource/primefaces.js?ln=primefaces&amp;v=4.0"></script><link type="text/css" rel="stylesheet" href="/faces/javax.faces.resource/stack/stack.css?ln=primefaces&amp;v=4.0" /><script type="text/javascript" src="/faces/javax.faces.resource/stack/stack.js?ln=primefaces&amp;v=4.0"></script>
+    <title>Mafia News</title></head><body><html xmlns="http://www.w3.org/1999/xhtml"><body><div id="j_idt9" class="ui-panel ui-widget ui-widget-content ui-corner-all headerclass" data-widget="widget_j_idt9"><div id="j_idt9_content" class="ui-panel-content ui-widget-content"><div id="j_idt10" class="ui-stack"><img src="resources/menu/closebook-icon.png" /><ul id="j_idt10_stack"><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/magic.xhtml"><span>Magic</span><img src="resources/menu/magic-icon.png" /></a></li><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/about.xhtml"><span>About</span><img src="resources/menu/about-icon.png" /></a></li><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/mafiosi.xhtml"><span>Mafiosi</span><img src="resources/menu/mafiosi-icon.png" /></a></li><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/video.xhtml"><span>Video</span><img src="resources/menu/videos-icon.png" /></a></li><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/gallery.xhtml"><span>Gallery</span><img src="resources/menu/photos-icon.png" /></a></li><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/school.xhtml"><span>School</span><img src="resources/menu/school-icon.png" /></a></li><li><a tabindex="-1" class="ui-menuitem-link ui-corner-all" href="/faces/news.xhtml"><span>News</span><img src="resources/menu/news-icon.png" /></a></li></ul></div><script id="j_idt10_s" type="text/javascript">$(function(){PrimeFaces.cw('Stack','widget_j_idt10',{id:'j_idt10',openSpeed:300,closeSpeed:300,expanded:true},'stack');});</script></div></div><script id="j_idt9_s" type="text/javascript">PrimeFaces.cw('Panel','widget_j_idt9',{id:'j_idt9'});</script></body>
+</html><div id="j_idt19" class="ui-panel ui-widget ui-widget-content ui-corner-all" style="background-color: aquamarine" data-widget="widget_j_idt19"><div id="j_idt19_content" class="ui-panel-content ui-widget-content">
+       dawdadad
+       </div></div><script id="j_idt19_s" type="text/javascript">PrimeFaces.cw('Panel','widget_j_idt19',{id:'j_idt19'});</script><html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+<form id="j_idt22" name="j_idt22" method="post" action="/faces/news.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt22" value="j_idt22" />
+
+    This is Footer
+<input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-6230389190687751080:2413010889677460272" autocomplete="off" />
+</form>
+</body>
+</html></body>
+</html>
