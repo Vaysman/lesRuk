@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+h1{
+    color: white;
+    font-size: 12px;
+}
+
+.wrapper{
+    background-color: blueviolet;
+}
+
+body{
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+	position: fixed;
+	min-height: 100%;
+	min-width: 1000px;
+	background-size: cover;
+
+}
+
+.headerclass{
+    background-image: url("../images/header.jpeg");
+    background-color: beige;
+}
